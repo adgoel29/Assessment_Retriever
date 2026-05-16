@@ -1,9 +1,13 @@
 import json
+import os
 import numpy as np
 import faiss
-from sentence_transformers import SentenceTransformer
+from google import genai
 from dataclasses import dataclass
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
 @dataclass
 class Assessment:
@@ -20,8 +24,8 @@ class Assessment:
 
 
 class FAISSStore:
-    def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
-        self.model = SentenceTransformer(model_name)
+    def __init__(self):
+        self.client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
         self.index = None
         self.assessments: list[Assessment] = []
 
@@ -39,25 +43,14 @@ class FAISSStore:
             adaptive=item.get("adaptive", ""),
         )
 
-    def _make_text(self, a: Assessment) -> str:
-        parts = [
-            a.name,
-            a.description,
-            "Job levels: " + ", ".join(a.job_levels),
-            "Keys: " + ", ".join(a.keys),
-            "Duration: " + a.duration,
-        ]
-        return " | ".join(p for p in parts if p.strip(" |"))
-
-    def load(self, json_path: str):
-        """Ingest catalog from JSON into memory. Call once at startup."""
-        with open(json_path, "r",encoding="utf-8") as f:
+    def load(self, json_path: str, embeddings_path: str = "embeddings.npy"):
+        """Load catalog + pre-computed embeddings into memory. No API calls."""
+        with open(json_path,encoding="utf-8") as f:
             data = json.load(f)
 
         self.assessments = [self._to_assessment(item) for item in data]
-        texts = [self._make_text(a) for a in self.assessments]
 
-        embeddings = self.model.encode(texts, show_progress_bar=True, convert_to_numpy=True).astype(np.float32)
+        embeddings = np.load(embeddings_path).astype(np.float32)
         faiss.normalize_L2(embeddings)
 
         self.index = faiss.IndexFlatIP(embeddings.shape[1])
@@ -67,14 +60,12 @@ class FAISSStore:
     def search(self, query: str, top_k: int = 10) -> list[Assessment]:
         if self.index is None:
             raise RuntimeError("Store not loaded. Call load() first.")
-        vec = self.model.encode([query], convert_to_numpy=True).astype(np.float32)
+
+        result = self.client.models.embed_content(
+            model="gemini-embedding-2",
+            contents=[query],
+        )
+        vec = np.array([result.embeddings[0].values], dtype=np.float32)
         faiss.normalize_L2(vec)
         _, indices = self.index.search(vec, top_k)
         return [self.assessments[i] for i in indices[0] if i != -1]
-    
-
-if __name__=="__main__":
-    store=FAISSStore()
-    store.load("catalog.json")
-    results = store.search("Java developer mid level")
-    print(results)

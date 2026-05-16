@@ -2,7 +2,7 @@ import os
 import json
 from google import genai
 from google.genai import types
-from fs import FAISSStore, Assessment
+from faiss_store import FAISSStore, Assessment
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -85,7 +85,7 @@ class SHLAgent:
 
     def chat(self, messages: list[dict]) -> dict:
         query = self._build_query_from_history(messages)
-        print(f"the query is {query}")
+        # print(f"the query is {query}")
         candidates = self.store.search(query, top_k=10)
         # print(f"the search results are {candidates} \n\n")
         catalog_context = format_assessments_for_context(candidates)
@@ -110,7 +110,7 @@ class SHLAgent:
 
         try:
             response = self.client.models.generate_content(
-                model="gemini-2.5-flash-lite",
+                model="gemini-3-flash-preview",
                 config=types.GenerateContentConfig(
                     system_instruction=SYSTEM_PROMPT,
                     temperature=0.0,
@@ -121,7 +121,6 @@ class SHLAgent:
 
             raw = (response.text or "").strip()
 
-            print("\nRAW MODEL OUTPUT:")
             
 
             if not raw:

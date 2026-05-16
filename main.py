@@ -2,7 +2,7 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from agent import SHLAgent
-from fs import FAISSStore
+from faiss_store import FAISSStore
 import os
 
 
