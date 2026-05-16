@@ -6,4 +6,3 @@ faiss-cpu
 numpy
 pydantic
 python-dotenv
-torch
