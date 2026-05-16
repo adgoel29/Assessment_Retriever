@@ -1,0 +1,4139 @@
+[
+  {
+    "entity_id": "4302",
+    "name": "Global Skills Development Report",
+    "link": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "scraped_at": "2026-05-08T10:40:21.464836+00:00",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Front Line Manager",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Director, Entry-Level, Executive, General Population, Graduate, Manager, Mid-Professional, Front Line Manager, Supervisor,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This report is designed to be given to individuals who have completed the Global Skills Assessment (GSA). With coverage across the Great 8 Domains, this measure of self-reported behaviors offers a complete overview of their current skills. Participants receive actionable tips on leveraging their top skill strengths and how they might develop their growth skills.",
+    "keys": [
+      "Ability & Aptitude",
+      "Assessment Exercises",
+      "Biodata & Situational Judgment",
+      "Competencies",
+      "Development & 360",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "3827",
+    "name": ".NET Framework 4.5",
+    "link": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "scraped_at": "2026-05-08T10:39:46.810448+00:00",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Professional Individual Contributor, Mid-Professional,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 30",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application Development, Application Foundation, Data Modeling, Deployment, Diagnostics, Performance, Portability, and Security.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4094",
+    "name": ".NET MVC (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "scraped_at": "2026-05-08T10:39:53.276083+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "17 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 17",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4099",
+    "name": ".NET MVVM (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "scraped_at": "2026-05-08T10:41:53.047159+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data validation, ViewModel communication and Quick-start.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4018",
+    "name": ".NET WCF (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "scraped_at": "2026-05-08T10:41:58.935422+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "11 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 11",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of .NET fundamentals, WCF architecture, programming model, SOA, managing and programming WCF.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4016",
+    "name": ".NET WPF (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "scraped_at": "2026-05-08T10:42:04.800928+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF applications.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4165",
+    "name": ".NET XAML (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "scraped_at": "2026-05-08T10:42:15.406285+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4178",
+    "name": "Accounts Payable (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "scraped_at": "2026-05-08T10:42:34.043781+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4187",
+    "name": "Accounts Payable Simulation (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "scraped_at": "2026-05-08T10:42:40.400062+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Simulated data entry test that measures the ability to process payables and vendor invoices.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4179",
+    "name": "Accounts Receivable (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "scraped_at": "2026-05-08T10:42:48.008104+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4188",
+    "name": "Accounts Receivable Simulation (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "scraped_at": "2026-05-08T10:42:54.709323+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Simulated data entry test that measures the ability to process receivables and invoices.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4168",
+    "name": "ADO.NET (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "scraped_at": "2026-05-08T10:43:00.681789+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge on the concepts of ADO.NET architecture, components and data provider objects.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4019",
+    "name": "Adobe Experience Manager (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "scraped_at": "2026-05-08T10:43:07.224360+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "17 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 17",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of AEM components, templates, workflows, AEM collections, OSGi services and troubleshooting of AEM projects.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3778",
+    "name": "Adobe Photoshop CC",
+    "link": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "scraped_at": "2026-05-08T10:43:13.300957+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "20 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 20",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The Adobe Photoshop CC test measures knowledge of Adobe Photoshop CC. Designed for experienced users, this test covers the following topics: 3D, Color, File Management, Interface, Layers, Painting and Drawing, Retouch and Enhancements, Selection, Text, and Web.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4069",
+    "name": "Aeronautical Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "scraped_at": "2026-05-08T10:43:21.526635+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of flight mechanics, space dynamics, aerodynamics, structures and propulsion.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4004",
+    "name": "Aerospace Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "scraped_at": "2026-05-08T10:43:27.704593+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the conceptual knowledge of aerodynamics, aircraft systems and instrumentation, flight dynamics, space dynamics and avionics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4223",
+    "name": "Agile Software Development",
+    "link": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "scraped_at": "2026-05-08T10:43:35.218571+00:00",
+    "job_levels": [
+      "Graduate"
+    ],
+    "job_levels_raw": "Graduate,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7 minutes",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of agile methodology, scrum, feature driven software development, incremental and iterative development and processes involved in agile software development.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4159",
+    "name": "Agile Testing (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "scraped_at": "2026-05-08T10:43:41.269701+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of tools, techniques and processes involved in the Agile testing methodology.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4311",
+    "name": "AI Skills",
+    "link": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "scraped_at": "2026-05-08T10:43:51.702137+00:00",
+    "job_levels": [
+      "General Population"
+    ],
+    "job_levels_raw": "General Population,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "16 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 16",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The AI Skills assessment measures the skills that help candidates successfully leverage AI in their work.",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4028",
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "scraped_at": "2026-05-08T10:43:58.111884+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "6 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 6",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4160",
+    "name": "Android Development (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "scraped_at": "2026-05-08T10:44:04.732109+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of UI components for an Android device, services and alerts, animation and media apps, application components, security and testing.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4153",
+    "name": "Angular 6 (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "scraped_at": "2026-05-08T10:44:15.821284+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "11 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 11",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of the basic components and modules of Angular 6 and concepts like data binding, dependency injection, CRUD with HTTP, typescript, routing and navigation.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4021",
+    "name": "AngularJS (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "scraped_at": "2026-05-08T10:44:15.921835+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of AngularJS architecture, forms, directives, filters, controllers, routing and testing.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4030",
+    "name": "Apache Hadoop (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "scraped_at": "2026-05-08T10:44:16.022341+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of basic concepts of Hadoop, commands, HDFS and MapReduce.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4011",
+    "name": "Apache Hadoop Extensions (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "scraped_at": "2026-05-08T10:44:16.122857+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the conceptual knowledge of Pig, Hive and HBase.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4073",
+    "name": "Apache HBase (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "scraped_at": "2026-05-08T10:44:16.223416+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration and administration.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4075",
+    "name": "Apache Hive (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "scraped_at": "2026-05-08T10:44:21.815687+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive query language.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4022",
+    "name": "Apache Kafka (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "scraped_at": "2026-05-08T10:44:22.162757+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "6 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 6",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4115",
+    "name": "Apache Pig (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "scraped_at": "2026-05-08T10:44:22.509671+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "6 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 6",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Pig architecture, built-in operators, built-in functions and commands in PigLatin.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4023",
+    "name": "Apache Spark (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "scraped_at": "2026-05-08T10:44:22.584375+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Apache Spark principles, RDD operations - actions and transformations, lineage graphs and lazy evaluation.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4017",
+    "name": "ASP .NET with C# (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "scraped_at": "2026-05-08T10:44:23.555099+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, OOPs concepts and advanced topics such as data access components, state management and security services.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3786",
+    "name": "ASP.NET 4.5",
+    "link": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "scraped_at": "2026-05-08T10:44:27.654495+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 30",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role should pass this test. This test includes the following topics: .NET Framework, Client-Side Programming, Data Access, Enhanced Runtime Features, Portals, Services and Mobile, Security, Troubleshooting and Optimization, Web Applications, and Web Forms.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4219",
+    "name": "Assessment and Development Center Exercises",
+    "link": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "scraped_at": "2026-05-08T10:44:28.869490+00:00",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English International",
+      "English (USA)"
+    ],
+    "languages_raw": "English International, English (USA),",
+    "duration": "Variable",
+    "duration_raw": "Approximate Completion Time in minutes = Variable",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "SHL offers a comprehensive range of Assessment and Development Centre exercise in digital format, for remote assessment through our Virtual Assessment and Development Centre platform.\r\n\r\nWe offer a wide range of exercise types including group exercise, role plays, analysis presentations and written exercises.\r\n\r\nExercises are available across a wide range of job levels and industry contexts.\r\n\r\nContact SHL to find out more.",
+    "keys": [
+      "Assessment Exercises"
+    ]
+  },
+  {
+    "entity_id": "3980",
+    "name": "Automata - Fix (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "scraped_at": "2026-05-08T10:46:14.380957+00:00",
+    "job_levels": [
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Mid-Professional,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "20 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = max 20",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code.\r\n\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "3981",
+    "name": "Automata - SQL (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "scraped_at": "2026-05-08T10:46:23.941195+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = max 30",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "3984",
+    "name": "Automata (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "scraped_at": "2026-05-08T10:46:29.710587+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "45 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = max 45",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. \r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "3982",
+    "name": "Automata Data Science (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "scraped_at": "2026-05-08T10:46:30.188693+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "60 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = max 60",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "3983",
+    "name": "Automata Data Science Pro (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "scraped_at": "2026-05-08T10:46:39.976272+00:00",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Professional Individual Contributor, Mid-Professional,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "60 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = max 60",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4222",
+    "name": "Automata Front End",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "scraped_at": "2026-05-08T10:46:45.263696+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Manager"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor, Manager,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 30 minutes",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Simulation based test that measures the front-end development capabilities using HTML, CSS, and\r\nJavaScript. The candidate is provided with 3 different sections to code in HTML, CSS and JavaScript respectively and a separate output section to view the output. This simulation is then manually scored.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "3985",
+    "name": "Automata Pro (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "scraped_at": "2026-05-08T10:46:52.192753+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "60 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = max 60",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. \r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4229",
+    "name": "Automata Selenium",
+    "link": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "scraped_at": "2026-05-08T10:46:57.622235+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "60 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 60",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4026",
+    "name": "Automation Anywhere RPA Development (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "scraped_at": "2026-05-08T10:47:03.274940+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Automation Anywhere dash board and task editor, control room, key commands, bots and Automation Anywhere client.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4025",
+    "name": "Automotive Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "scraped_at": "2026-05-08T10:47:09.607620+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of auto engine classification, engine fuel system, auto-vehicle technology, maintenance, inspection and troubleshooting.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3988",
+    "name": "Basic Biology (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "scraped_at": "2026-05-08T10:47:46.933824+00:00",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Graduate",
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Professional Individual Contributor, Graduate, Mid-Professional,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "6 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 6",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi choice test that measures the candidate's basic understanding of Biology.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4206",
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "scraped_at": "2026-05-08T10:47:52.665937+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 30",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
+    "keys": [
+      "Simulations",
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4149",
+    "name": "Basic Statistics (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "scraped_at": "2026-05-08T10:47:58.691568+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of statistical methods, exploratory analysis, basics of probability, standard distributions and statistical testing.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4161",
+    "name": "Biochemistry (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "scraped_at": "2026-05-08T10:48:04.766744+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of various bio-molecules like amino acids, proteins, enzymes, carbohydrates, vitamins and nucleic acids, and concepts of bioenergetics and metabolism.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4036",
+    "name": "Biotech Lab Techniques (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "scraped_at": "2026-05-08T10:48:11.376481+00:00",
+    "job_levels": [
+      "Graduate",
+      "Professional Individual Contributor",
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Graduate, Professional Individual Contributor, Mid-Professional,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of biophysical techniques, bio-processing and separation techniques like chromatography and electrophoresis.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4037",
+    "name": "BizTalk (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "scraped_at": "2026-05-08T10:48:17.391751+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "16 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 16",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of BizTalk architecture, pipelines, adapters, business process techniques and BizTalk administration.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "244",
+    "name": "Business Communication (adaptive)",
+    "link": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "scraped_at": "2026-05-08T10:48:23.147138+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "24 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 24",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "This is an adaptive test that measures knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers at all levels and with external business contacts. Designed for the average business worker, this test includes the following topics: Electronic Communication, Employment Communication, Listening, Meetings, Nonverbal Communication, Verbal Communication, and Written Communication.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "536",
+    "name": "Business Communications",
+    "link": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "scraped_at": "2026-05-08T10:48:29.359992+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "35 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 35",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This test measures the candidate's knowledge of communicating in the workplace.  It measures the skills necessary to communicate effectively with coworkers at all levels and with external business contacts. Designed for the average business worker, this test includes the following topics: Electronic Communication, Employment Communication, Listening, Meetings, Nonverbal Communication, Verbal Communication, and Written Communication. This version of the test is not adaptive.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4038",
+    "name": "C Programming (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "scraped_at": "2026-05-08T10:48:35.298637+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of C programming basics, functions, arrays, composed data types, and advanced C concepts like SLF, file handling and dynamic memory.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4039",
+    "name": "C# Programming (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "scraped_at": "2026-05-08T10:45:03.676398+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of C# programming structure, functions, collections, enumeration, exception handling, OOPs constructs, inheritance, event handling and operator overloading.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4122",
+    "name": "C++ Programming (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "scraped_at": "2026-05-08T10:45:23.172996+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of programming in the C++ language and the ability to use the C++ standard library to write code.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4077",
+    "name": "Cardiology and Diabetes Management (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "scraped_at": "2026-05-08T10:45:29.976861+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "4 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 4",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of how to control and manage cardiovascular diseases and diabetes, and understanding of the diagnostic tests used for them.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4044",
+    "name": "Ceramic Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "scraped_at": "2026-05-08T10:48:41.193061+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "12 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 12",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of classification of ceramic materials, production of ceramics and thermodynamics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4012",
+    "name": "Chemical Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "scraped_at": "2026-05-08T10:48:47.002853+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the conceptual knowledge of transport phenomena, chemical process engineering and technology, chemical process principles, stoichiometry and process calculations.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4024",
+    "name": "Cisco AppDynamics (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "scraped_at": "2026-05-08T11:24:30.174752+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of application analytics, performance management, and AppDynamics essentials like controller UI, custom dashboard, reports and monitoring.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4150",
+    "name": "Civil Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "scraped_at": "2026-05-08T10:48:52.279789+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of structural engineering, transportation engineering, surveying, geotechnical engineering and water resources engineering.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4045",
+    "name": "Cloud Computing (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "scraped_at": "2026-05-08T10:48:58.977171+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of cloud computing concepts, cloud service models, virtualization and private clouds.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4046",
+    "name": "COBOL Programming (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "scraped_at": "2026-05-08T10:49:04.998234+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of COBOL programming fundamentals, programming structure and different types of application processing.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4104",
+    "name": "Computer Science (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "scraped_at": "2026-05-08T11:24:35.817873+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "12 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 12",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of operating system, computer architecture, DBMS and basics of computer networks and communication.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4189",
+    "name": "Contact Center Call Simulation (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "scraped_at": "2026-05-08T10:49:11.466600+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "15 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 15",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Simulation based test that measures the ability to handle customer concerns over a call by referring to standard process documents. It also measures typing and documentation skills.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4296",
+    "name": "Conversational Multichat Simulation",
+    "link": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "scraped_at": "2026-05-08T10:49:21.280610+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "11 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 11",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This is a simulation-based test that measures the ability to handle customer concerns over multiple chats by referring to standard process documents. It provides an open-ended chat environment that assesses the candidate’s skills in a real job setting. Candidates are scored based on whether they resolved the customer’s query, the amount of time taken, and the correct use of vocabulary and grammar in their response.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4034",
+    "name": "Core Java (Advanced Level) (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "scraped_at": "2026-05-08T10:49:29.178098+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4032",
+    "name": "Core Java (Entry Level) (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "scraped_at": "2026-05-08T10:49:39.871593+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3458",
+    "name": "Count Out The Money",
+    "link": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "scraped_at": "2026-05-08T10:49:47.413492+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)",
+      "English (Australia)",
+      "English (Canada)",
+      "English International",
+      "English (South Africa)"
+    ],
+    "languages_raw": "English (USA), English (Australia), English (Canada), English International, English (South Africa),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The Count out the Money –US test measures a candidate’s money handling ability. This test is designed for entry-level positions where handling money is required on a regular basis.",
+    "keys": [
+      "Knowledge & Skills",
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4052",
+    "name": "CSS3 (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "scraped_at": "2026-05-08T10:49:53.845859+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4050",
+    "name": "Culinary Skills (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "scraped_at": "2026-05-08T10:49:59.978989+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of cooking principles, cooking equipment, meal preparation and presentation, and kitchen safety.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3933",
+    "name": "Customer Service Phone Simulation",
+    "link": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "scraped_at": "2026-05-08T10:50:09.527471+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [
+      "French (Canada)",
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Italian",
+      "Spanish",
+      "French",
+      "Latin American Spanish",
+      "Chinese Simplified",
+      "English (Australia)",
+      "English International",
+      "English (USA)"
+    ],
+    "languages_raw": "French (Canada), Portuguese (Brazil), Dutch, Italian, Spanish, French, Latin American Spanish, Chinese Simplified, English (Australia), English International, English (USA),",
+    "duration": "20 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 20",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "As part of Contact Center Simulations, the Customer Service Phone Simulation is designed for entry-level positions in a contact center environment. Sample tasks for these jobs include: verify the customer or account; take ownership of customer issues; interact with customers to provide information; respond positively to difficult, irate, or confused customers; listen attentively to callers; resolve calls in a timely manner; navigate within multiple information menus to view customer account details and process information; and type information quickly and accurately. Potential job titles that use this solution are: Call Center Representative, Contact Center Representative, Contact Center Agent, Customer Service Agent, Customer Service Representative, and Customer Advocate.\n\"Please note that for Simplified Chinese version the audio is available in both Mandarin and Cantonese.\"",
+    "keys": [
+      "Biodata & Situational Judgment",
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "3931",
+    "name": "Customer Service Phone Solution",
+    "link": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "scraped_at": "2026-05-08T10:50:15.772687+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [
+      "French (Canada)",
+      "Italian",
+      "French",
+      "Dutch",
+      "Spanish",
+      "Portuguese (Brazil)",
+      "Chinese Simplified",
+      "English (Australia)",
+      "Latin American Spanish",
+      "English (USA)",
+      "English International"
+    ],
+    "languages_raw": "French (Canada), Italian, French, Dutch, Spanish, Portuguese (Brazil), Chinese Simplified, English (Australia), Latin American Spanish, English (USA), English International,",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 30",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "As part of Contact Center Simulations, the Customer Service Phone Solution includes a contact center simulation and two behavioral tests designed to measure a wide range of skills, competencies, and behavioral tendencies relevant for contact center jobs. The Contact Center Simulation provides an opportunity for candidates to interact with simulated customers in a contact center environment. Designed to measure a candidate’s ability to listen attentively to the customer, take ownership of customer issues, resolve issues, navigate to find information, and enter information accurately, the Contact Center Simulation is intended to measure how a candidate will respond in a variety of customer situations and assess the candidate’s computer skills in a contact center setting. The behavioral tests in this solution are intended to measure the candidate’s learning potential and the tendency to meet goals and work hard, even when faced with obstacles. Collectively, the assessments in this solution measure a wide range of important skills, abilities, and behaviors for entry-level contact center roles.\n\"Please note that for Simplified Chinese version the audio is available in both Mandarin and Cantonese.\"",
+    "keys": [
+      "Biodata & Situational Judgment",
+      "Personality & Behavior",
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4053",
+    "name": "Cyber Risk (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "scraped_at": "2026-05-08T10:50:21.497794+00:00",
+    "job_levels": [
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of cyber risk management, system and application security, network security and security management.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4186",
+    "name": "Data Entry (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "scraped_at": "2026-05-08T10:50:28.856043+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "4 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 4",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "778",
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "link": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "scraped_at": "2026-05-08T10:50:40.192932+00:00",
+    "job_levels": [
+      "Professional Individual Contributor",
+      "Mid-Professional",
+      "Front Line Manager",
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Professional Individual Contributor, Mid-Professional, Front Line Manager, Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "779",
+    "name": "Data Entry Numeric Split Screen - US",
+    "link": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "scraped_at": "2026-05-08T10:45:58.115663+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Entry-Level",
+      "Front Line Manager"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor, Entry-Level, Front Line Manager,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "785",
+    "name": "Data Entry Ten Key Split Screen",
+    "link": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "scraped_at": "2026-05-08T10:46:04.964686+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "3 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 3",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4013",
+    "name": "Data Science (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "scraped_at": "2026-05-08T10:46:11.570260+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "14 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 14",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the conceptual knowledge on how to use machine learning to analyze data, extract information, draw conclusions and make statistically-driven decisions.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "56",
+    "name": "Data Warehousing Concepts",
+    "link": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "scraped_at": "2026-05-08T10:46:17.780050+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "25 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 25",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and Data Warehouse Appliance, Business Considerations, Data Transformation, Data Warehousing and Data Marts, Design, Dimensional Data Model, On Line Analytical Processing (OLAP), Querying and Reporting/Data Extraction.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "731",
+    "name": "Dependability and Safety Instrument (DSI)",
+    "link": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "scraped_at": "2026-05-08T10:46:24.369610+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "Portuguese (Brazil)",
+      "Chinese Traditional",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "Icelandic",
+      "Chinese Simplified",
+      "English International",
+      "Italian",
+      "Latin American Spanish",
+      "Polish",
+      "Swedish",
+      "English (USA)",
+      "Norwegian",
+      "Russian"
+    ],
+    "languages_raw": "Portuguese (Brazil), Chinese Traditional, Danish, Dutch, Finnish, French, German, Icelandic, Chinese Simplified, English International, Italian, Latin American Spanish, Polish, Swedish, English (USA), Norwegian, Russian,",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The DSI is a short pre-screening tool for many key entry-level roles. It is designed to identify potential employees who will have good dependability and reliability, and who are less likely to engage in counter-productive work behaviors.\r\n\r\nNote: Turkish [end June 2012] and Romanian [end May 2013] are on limited beta relase",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4162",
+    "name": "Dermatology (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "scraped_at": "2026-05-08T10:46:30.626212+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "3 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 3",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of various diseases related to skin, their symptoms, the drugs used to treat them, and different terminologies used in the field of dermatology.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4101",
+    "name": "Desktop Support (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "scraped_at": "2026-05-08T10:46:38.183367+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of networking, peripheral components, operating systems, troubleshooting and providing technical support.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4003",
+    "name": "Digital Advertising (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "scraped_at": "2026-05-08T10:46:44.970268+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the candidate's knowledge about use of AdWords and tools to analyze ad performance on digital media.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4221",
+    "name": "Digital Readiness Development Report - IC",
+    "link": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "scraped_at": "2026-05-08T10:46:50.289418+00:00",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This participant-oriented report is aimed at individual contributors (non-managerial) and summarizes the way that they have described their typical style at work and is interpreted against SHL's Digital Readiness Framework. The report describes the way the person typically behaves, rather than their actual skill levels. It gives an indication of the individual's likely strengths in each area and makes suggestions for development activities, based upon the information gained from the\r\nquestionnaire.\r\n\r\nNote: this report is specifically aimed at Individual Contributors. A version designed for Managers is also available (see Digital Readiness Report - Managers).",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4239",
+    "name": "Digital Readiness Development Report - Manager",
+    "link": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "scraped_at": "2026-05-08T10:46:56.161359+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Supervisor",
+      "Director"
+    ],
+    "job_levels_raw": "Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Supervisor, Director,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This participant-oriented report is aimed employees with management responsibilities and summarizes the way that they have described their typical style at work and is interpreted against SHL's Digital Readiness Framework. The report describes the way the person typically behaves, rather than their actual skill levels. It gives an indication of the individual's likely strengths in each area and makes suggestions for development activities, based upon the information gained from the\r\nquestionnaire.\r\n\r\nNote: this report is specifically aimed at managers. A version designed for individual contributors is also available (see Digital Readiness Report - IC).",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4059",
+    "name": "Docker (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "scraped_at": "2026-05-08T10:47:02.229413+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Docker container, data management, Docker performance and swarm.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4060",
+    "name": "Dojo (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "scraped_at": "2026-05-08T10:47:10.561954+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "11 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 11",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Dojo architecture, classes and libraries, styles, animation and Dojo queries.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4062",
+    "name": "Drupal (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "scraped_at": "2026-05-08T10:47:16.216270+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "17 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 17",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "1102",
+    "name": "DSI v1.1 Interpretation Report",
+    "link": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "scraped_at": "2026-05-08T10:47:22.579586+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [
+      "Portuguese (Brazil)",
+      "Dutch",
+      "Finnish",
+      "French",
+      "Latin American Spanish",
+      "Norwegian",
+      "Swedish",
+      "English (USA)",
+      "English International",
+      "Chinese Simplified",
+      "Chinese Traditional",
+      "Danish",
+      "German",
+      "Icelandic",
+      "Italian",
+      "Russian"
+    ],
+    "languages_raw": "Portuguese (Brazil), Dutch, Finnish, French, Latin American Spanish, Norwegian, Swedish, English (USA), English International, Chinese Simplified, Chinese Traditional, Danish, German, Icelandic, Italian, Russian,",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "DSI v1.1 Interpretation Report",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4148",
+    "name": "Econometrics (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "scraped_at": "2026-05-08T10:47:32.728831+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "11 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 11",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of statistical concepts, exploratory analysis and statistical testing required to analyze economic data.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4009",
+    "name": "Economics (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "scraped_at": "2026-05-08T10:50:48.472942+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the conceptual knowledge of microeconomics, macroeconomics and international trade.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4001",
+    "name": "Electrical and Electronics Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "scraped_at": "2026-05-08T10:50:48.811958+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "14 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 14",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the candidate’s knowledge and understanding on fundamentals of electrical engineering, instrumentation and control system and electronics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4031",
+    "name": "Electrical Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "scraped_at": "2026-05-08T10:50:53.366784+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of basic electrical engineering, electrical machines, power systems, instrumentation, control systems and basic concepts of electronics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4002",
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "scraped_at": "2026-05-08T10:50:59.950135+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "15 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 15",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the candidate’s knowledge and understanding on semiconductors and semiconductor devices, analog and digital electronics, communication, electromagnetism and microwave engineering.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4000",
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "scraped_at": "2026-05-08T10:51:07.417823+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "18 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 18",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the candidate’s knowledge and understanding on concepts like embedded systems and, analog and digital electronics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4139",
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "scraped_at": "2026-05-08T10:51:14.064583+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of semiconductors, two terminal and three terminal devices, analog electronics, digital electronics and basics of VLSI.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4180",
+    "name": "English Comprehension (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "scraped_at": "2026-05-08T10:51:14.805125+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "0 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 0",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4063",
+    "name": "Enterprise Java Beans (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "scraped_at": "2026-05-08T10:51:17.227173+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "4 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 4",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of enterprise Java beans (EJB), types of EJB, transactions and concurrency.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3856",
+    "name": "Enterprise Leadership Report 1.0",
+    "link": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "scraped_at": "2026-05-08T10:51:18.759128+00:00",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager",
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Director, Executive, Manager, Mid-Professional,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.\r\nFor more information, visit: \r\nhttps://www.shl.com/en/identify-develop-leaders/enterprise-leadership/ .",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4287",
+    "name": "Enterprise Leadership Report 2.0",
+    "link": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "scraped_at": "2026-05-08T10:51:21.217947+00:00",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager",
+      "Mid-Professional"
+    ],
+    "job_levels_raw": "Director, Executive, Manager, Mid-Professional,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment.\r\nFor more information, visit: \r\nhttps://www.shl.com/en/identify-develop-leaders/enterprise-leadership/ .",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "3934",
+    "name": "Entry Level Cashier Solution",
+    "link": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "scraped_at": "2026-05-08T10:51:25.783049+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)",
+      "English International",
+      "French (Canada)",
+      "German",
+      "Italian",
+      "French",
+      "Dutch",
+      "Norwegian",
+      "Finnish",
+      "Swedish",
+      "Danish",
+      "Arabic",
+      "Chinese Simplified",
+      "Latin American Spanish"
+    ],
+    "languages_raw": "English (USA), English International, French (Canada), German, Italian, French, Dutch, Norwegian, Finnish, Swedish, Danish, Arabic, Chinese Simplified, Latin American Spanish,",
+    "duration": "19 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 19",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Precise Fit Entry Level Cashier Solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds.\nReport Language Availability: English (USA)",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "3939",
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "link": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "scraped_at": "2026-05-08T10:51:30.768011+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "Latin American Spanish",
+      "German",
+      "French",
+      "Chinese Simplified",
+      "Swedish",
+      "Arabic",
+      "English International",
+      "English (USA)",
+      "French (Canada)",
+      "Italian",
+      "Dutch",
+      "Norwegian",
+      "Finnish",
+      "Danish"
+    ],
+    "languages_raw": "Latin American Spanish, German, French, Chinese Simplified, Swedish, Arabic, English International, English (USA), French (Canada), Italian, Dutch, Norwegian, Finnish, Danish,",
+    "duration": "19 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 19",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Precise Fit Entry Level Customer Service Solution (Retail/Contact Center) is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\nReport Language Availability: English (USA)",
+    "keys": [
+      "Personality & Behavior",
+      "Competencies"
+    ]
+  },
+  {
+    "entity_id": "3935",
+    "name": "Entry Level Customer Service (General) Solution",
+    "link": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "scraped_at": "2026-05-08T10:51:44.085756+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)",
+      "English International",
+      "French (Canada)",
+      "Italian",
+      "Dutch",
+      "Norwegian",
+      "Finnish",
+      "Danish",
+      "Latin American Spanish",
+      "German",
+      "French",
+      "Chinese Simplified",
+      "Swedish",
+      "Arabic"
+    ],
+    "languages_raw": "English (USA), English International, French (Canada), Italian, Dutch, Norwegian, Finnish, Danish, Latin American Spanish, German, French, Chinese Simplified, Swedish, Arabic,",
+    "duration": "14 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 14",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Precise Fit Entry Level Customer Service Solution (General) is for a wide range of entry-level positions where employees are expected to interact with customers when carrying out critical tasks of the job. This includes positions that require frequent interactions with customers, or positions where customer service is not central to the role, but is still essential for successful performance on the job. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone to provide information; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\nReport Language Availability: English (USA)",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "3936",
+    "name": "Entry Level Hotel Front Desk Solution",
+    "link": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "scraped_at": "2026-05-08T10:51:52.844509+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "French (Canada)",
+      "Italian",
+      "French",
+      "Chinese Simplified",
+      "Swedish",
+      "Arabic",
+      "English (USA)",
+      "English International",
+      "Latin American Spanish",
+      "German",
+      "Dutch",
+      "Norwegian",
+      "Finnish",
+      "Danish"
+    ],
+    "languages_raw": "French (Canada), Italian, French, Chinese Simplified, Swedish, Arabic, English (USA), English International, Latin American Spanish, German, Dutch, Norwegian, Finnish, Danish,",
+    "duration": "20 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 20",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Precise Fit Entry Level Hotel Front Desk Solution is for entry-level customer service positions in the hospitality industry. The solution is appropriate for positions in which the majority of the work is done at the front or guest check-in desk. Sample tasks may include: welcoming guests warmly, issuing keys to guests, and accepting payment.\nReport Language Availability: English (USA)",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "3937",
+    "name": "Entry Level Sales Solution",
+    "link": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "scraped_at": "2026-05-08T10:51:59.823065+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "German",
+      "Italian",
+      "Chinese Simplified",
+      "Finnish",
+      "Danish",
+      "English (USA)",
+      "English International",
+      "Latin American Spanish",
+      "French (Canada)",
+      "French",
+      "Dutch",
+      "Norwegian",
+      "Swedish",
+      "Arabic"
+    ],
+    "languages_raw": "German, Italian, Chinese Simplified, Finnish, Danish, English (USA), English International, Latin American Spanish, French (Canada), French, Dutch, Norwegian, Swedish, Arabic,",
+    "duration": "20 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 20",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.\nReport Language Availability: English (USA)",
+    "keys": [
+      "Competencies",
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "3938",
+    "name": "Entry Level Technical Support Solution",
+    "link": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "scraped_at": "2026-05-08T10:52:07.463554+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "Latin American Spanish",
+      "German",
+      "Chinese Simplified",
+      "Finnish",
+      "Danish",
+      "English (USA)",
+      "English International",
+      "French (Canada)",
+      "Italian",
+      "French",
+      "Dutch",
+      "Norwegian",
+      "Swedish",
+      "Arabic"
+    ],
+    "languages_raw": "Latin American Spanish, German, Chinese Simplified, Finnish, Danish, English (USA), English International, French (Canada), Italian, French, Dutch, Norwegian, Swedish, Arabic,",
+    "duration": "18 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 18",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Precise Fit Entry Level Technical Support Solution is for entry-level positions in which employees provide technical assistance to computer users in a contact center environment. Sample tasks for these jobs include, but are not limited to: answer questions or resolve computer problems for clients in person, via telephone, or electronically, provide assistance concerning the use of computer hardware and software, including printing, installation, word processing, electronic mail, and\r\noperating systems.\nReport Language Availability: English (USA)",
+    "keys": [
+      "Personality & Behavior",
+      "Competencies"
+    ]
+  },
+  {
+    "entity_id": "4065",
+    "name": "ETL Testing (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "scraped_at": "2026-05-08T10:52:07.835097+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of ETL architecture, data warehousing, dimensions, DBMS concepts like data manipulation, constraints, ETL testing and tools required for testing.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "743",
+    "name": "Executive Scenarios",
+    "link": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "scraped_at": "2026-05-08T10:52:15.464974+00:00",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager"
+    ],
+    "job_levels_raw": "Director, Executive, Manager,",
+    "languages": [
+      "Italian",
+      "English (USA)",
+      "English International",
+      "Korean"
+    ],
+    "languages_raw": "Italian, English (USA), English International, Korean,",
+    "duration": "Untimed",
+    "duration_raw": "Approximate Completion Time in minutes = Untimed",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Executive Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in Executives; a group who typically has significant work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available: \r\n\r\nExecutive Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Executive Scenarios profile\r\n - VERY detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Development tips for each of the 6 style scales;  Leading and Managing the work, Using external help, One-to-one, Workforce, Organisational support, Commercial support.\r\n\r\nExecutive Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
+    "keys": [
+      "Biodata & Situational Judgment"
+    ]
+  },
+  {
+    "entity_id": "3849",
+    "name": "Executive Scenarios Narrative Report",
+    "link": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "scraped_at": "2026-05-08T10:52:21.399074+00:00",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager"
+    ],
+    "job_levels_raw": "Director, Executive, Manager,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Executive Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in Executives; a group who typically has significant work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available: \r\n\r\nExecutive Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Executive Scenarios profile\r\n - VERY detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Development tips for each of the 6 style scales;  Leading and Managing the work, Using external help, One-to-one, Workforce, Organisational support, Commercial support.\r\n\r\nExecutive Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
+    "keys": [
+      "Biodata & Situational Judgment"
+    ]
+  },
+  {
+    "entity_id": "3899",
+    "name": "Executive Scenarios Profile Report",
+    "link": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "scraped_at": "2026-05-08T10:52:26.523009+00:00",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Manager"
+    ],
+    "job_levels_raw": "Director, Executive, Manager,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Executive Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is specifically designed to assess judgement in Executives; a group who typically has significant work experience to draw on. It consists of hypothetical scenarios, each followed by several possible responses. Candidates rate the effectiveness of each response, using a 6-point scale, from highly undesirable to highly desirable. It can be used for recruitment, selection, training and development, performance management and coaching in a variety of functions and industries.\r\n\r\nReports available: \r\n\r\nExecutive Scenarios Narrative Report:  A participant focused report that contains;  \r\n - Executive Scenarios profile\r\n - VERY detailed narrative feedback of each of the 4 scales;  Managerial Judgement, Managing Objectives, People Management and Reputation Management.\r\n - Development tips for each of the 6 style scales;  Leading and Managing the work, Using external help, One-to-one, Workforce, Organisational support, Commercial support.\r\n\r\nExecutive Scenarios Profile: Displays all scores on these scales in terms of four types of norm system; T-scores, Percentiles, Stens and Grades.",
+    "keys": [
+      "Biodata & Situational Judgment"
+    ]
+  },
+  {
+    "entity_id": "4127",
+    "name": "ExpressJS (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "scraped_at": "2026-05-08T10:52:31.581152+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of routing, error handling, security, middleware and performance & reliability in ExpressJS.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "380",
+    "name": "Filing - Names (R1)",
+    "link": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "scraped_at": "2026-05-08T10:52:37.046729+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "3 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 3",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This test measures ability to sort names in alphabetical order. Test takers are shown a graphical display of four folder tabs -- three contain alphabetized names and one is blank. The test taker is required to select the name from a list that belongs on the blank tab.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "381",
+    "name": "Filing - Numbers",
+    "link": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "scraped_at": "2026-05-08T10:52:37.422303+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "3 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 3",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This test measures ability to sort items in numerical order. Test takers are shown a graphical display of four folder tabs -- three contain numbers and one is blank, and all are sorted in numeric order. The test taker is required to select the number from a list that belongs on the blank tab.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3992",
+    "name": "Financial Accounting (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "scraped_at": "2026-05-08T10:52:37.776565+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the ability to post journal entries, classify items into assets and liabilities, analyze financial statements and calculate financial ratios.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4083",
+    "name": "Financial and Banking Services (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "scraped_at": "2026-05-08T10:52:45.158511+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of investment products, banking products, taxation and principles of Macroeconomics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4067",
+    "name": "Fire Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "scraped_at": "2026-05-08T10:52:54.861697+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of fire engineering principles, basic workplace safety and safety management.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "382",
+    "name": "Following Instructions v1 - UK (R1)",
+    "link": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "scraped_at": "2026-05-08T10:52:55.289797+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English International"
+    ],
+    "languages_raw": "English International,",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Candidates are presented with a set of rules and need to choose the appropriate response for various situations based on the rules given.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "383",
+    "name": "Following Instructions v1 - US (R2)",
+    "link": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "scraped_at": "2026-05-08T10:52:55.733163+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Test takers are presented with a set of rules and need to choose the appropriate response for various situations based on the rules given.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4090",
+    "name": "Food and Beverage Services (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "scraped_at": "2026-05-08T10:53:02.404246+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of meal planning, service preparation, types of service equipment, and types of beverages.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4071",
+    "name": "Food Science (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "scraped_at": "2026-05-08T10:53:10.991808+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "6 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 6",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of food chemistry, nutrition, food microbiology, food engineering and food product technology.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4072",
+    "name": "Front Office Management (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "scraped_at": "2026-05-08T10:53:14.902778+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of front office operations.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4113",
+    "name": "Fundamentals of Chemistry (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "scraped_at": "2026-05-08T10:53:16.402139+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of physical chemistry, inorganic chemistry and organic chemistry.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4043",
+    "name": "Fundamentals of Physics (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "scraped_at": "2026-05-08T10:53:21.870995+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of classical mechanics, Newton's laws of motion, electromagnetism, EM waves, thermodynamics and modern physics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4048",
+    "name": "General Diseases (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "scraped_at": "2026-05-08T10:53:32.644817+00:00",
+    "job_levels": [
+      "Graduate",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of common diseases of ear, nose, throat and teeth, their symptoms, drugs used to treat them and various drugs used to relieve pain.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4125",
+    "name": "Geoinformatics Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "scraped_at": "2026-05-08T10:53:39.549395+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor",
+      "Entry-Level",
+      "Graduate"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor, Supervisor, Entry-Level, Graduate,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of remote sensing, digital image processing, digital photogrammetry, planning and surveying, geology, GIS and drilling Engineering.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4066",
+    "name": "Geoscience Engineering (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "scraped_at": "2026-05-08T10:53:50.428975+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Graduate"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor, Graduate,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "8 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 8",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of exploration geology, soil mechanics, rock mechanics, geophysical investigation, geological surveying.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4078",
+    "name": "GIT (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "scraped_at": "2026-05-08T10:54:00.865514+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "13 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 13",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of how to use GIT for version control.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4301",
+    "name": "Global Skills Assessment",
+    "link": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "scraped_at": "2026-05-08T10:53:56.055053+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [
+      "Indonesian",
+      "Italian",
+      "Swedish",
+      "Thai",
+      "Portuguese (Brazil)",
+      "French (Canada)",
+      "Chinese Simplified",
+      "Danish",
+      "Finnish",
+      "French",
+      "German",
+      "English International",
+      "Japanese",
+      "Korean",
+      "Latin American Spanish",
+      "Norwegian",
+      "Polish",
+      "Romanian",
+      "Spanish",
+      "Vietnamese",
+      "Chinese Traditional",
+      "Arabic",
+      "English (USA)",
+      "Dutch",
+      "Portuguese",
+      "Turkish"
+    ],
+    "languages_raw": "Indonesian, Italian, Swedish, Thai, Portuguese (Brazil), French (Canada), Chinese Simplified, Danish, Finnish, French, German, English International, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Romanian, Spanish, Vietnamese, Chinese Traditional, Arabic, English (USA), Dutch, Portuguese, Turkish,",
+    "duration": "16 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 16",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most discrete level of SHL’s Universal Competency Framework (UCF). The GSA measures self-reported behaviors an individual currently engages in. A person’s skills (sets of behavior) are malleable and may change over time. SHL utilizes GSA scores to understand what the participant reports they can do today.",
+    "keys": [
+      "Competencies",
+      "Knowledge & Skills"
+    ]
+  },
+
+  {
+    "entity_id": "3734",
+    "name": "Verify - General Ability Screen",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "scraped_at": "2026-05-08T11:17:32.923868+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "German",
+      "French (Canada)",
+      "English (USA)",
+      "English International",
+      "Latin American Spanish",
+      "Dutch",
+      "French",
+      "Chinese Simplified",
+      "Portuguese (Brazil)",
+      "Turkish",
+      "Japanese"
+    ],
+    "languages_raw": "German, French (Canada), English (USA), English International, Latin American Spanish, Dutch, French, Chinese Simplified, Portuguese (Brazil), Turkish, Japanese,",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The General Ability Screen is a first for us – a measure of general mental ability or ‘g’ .\r\nTargeted at ‘entry-level’ roles, General Ability Screen is intended to precede other measures to provide process efficiency, and to ensure candidates experience the most positive possible assessment process, by being quick, fair and available as an online test 24/7/365. \r\nAs the name suggests, the test is designed to be used in screening or sifting processes",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3836",
+    "name": "Verify - Inductive Reasoning (2014)",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "scraped_at": "2026-05-08T11:17:38.302532+00:00",
+    "job_levels": [
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor",
+      "Director",
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Director, Entry-Level,",
+    "languages": [
+      "Portuguese (Brazil)",
+      "Chinese Traditional",
+      "Chinese Simplified",
+      "Czech",
+      "Danish",
+      "Finnish",
+      "French",
+      "Hungarian",
+      "Indonesian",
+      "English International",
+      "Italian",
+      "Latin American Spanish",
+      "Norwegian",
+      "Portuguese",
+      "Russian",
+      "Thai",
+      "English (USA)",
+      "French (Canada)",
+      "Dutch",
+      "Polish",
+      "Slovak",
+      "Arabic",
+      "German",
+      "Greek",
+      "Japanese",
+      "Korean",
+      "Romanian",
+      "Serbian",
+      "Spanish",
+      "Swedish",
+      "Turkish"
+    ],
+    "languages_raw": "Portuguese (Brazil), Chinese Traditional, Chinese Simplified, Czech, Danish, Finnish, French, Hungarian, Indonesian, English International, Italian, Latin American Spanish, Norwegian, Portuguese, Russian, Thai, English (USA), French (Canada), Dutch, Polish, Slovak, Arabic, German, Greek, Japanese, Korean, Romanian, Serbian, Spanish, Swedish, Turkish,",
+    "duration": "24 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 24",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "Inductive Reasoning is a test used for job candidates applying to jobs at all levels that require logical reasoning ability. Sample tasks for jobs that may require inductive reasoning include, but are not limited to dealing with new concepts and approaches, answering questions of ‘why’ and ‘how’ and resolving complex and ambiguous problems. Potential job titles that use this ability are Senior Sales, Product/Service Development, Research and Development.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3745",
+    "name": "Verify - Numerical Ability",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "scraped_at": "2026-05-08T11:17:43.810761+00:00",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "Arabic",
+      "Portuguese (Brazil)",
+      "French (Canada)",
+      "Chinese Simplified",
+      "Czech",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "Hungarian",
+      "Indonesian",
+      "English International",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Norwegian",
+      "Portuguese",
+      "Romanian",
+      "Russian",
+      "Slovak",
+      "Spanish",
+      "Swedish",
+      "Turkish",
+      "English (USA)",
+      "Latin American Spanish",
+      "Polish",
+      "Serbian",
+      "Chinese Traditional",
+      "Danish",
+      "Thai",
+      "Greek"
+    ],
+    "languages_raw": "Arabic, Portuguese (Brazil), French (Canada), Chinese Simplified, Czech, Dutch, Finnish, French, German, Hungarian, Indonesian, English International, Italian, Japanese, Korean, Norwegian, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Turkish, English (USA), Latin American Spanish, Polish, Serbian, Chinese Traditional, Danish, Thai, Greek,",
+    "duration": "20 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 20",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The next-generation Verify Numerical Ability Test provides a replacement for the existing Numerical Reasoning test in our Verify range of ability tests and the Global Cognitive Index – Adaptive Quantitative test, and measures the ability to:\r\n•\tDerive the numerical problem from a written problem\r\n•\tCalculate the answer to numerical equations\r\n•\tWork with numerical data in a realistic workplace context\r\n\r\nThe test is 20 minutes long, has 16 items and is designed to provide an indication of how an individual will perform when asked to work with numerical information or statistical details.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3768",
+    "name": "Verify - Technical Checking - Next Generation",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "scraped_at": "2026-05-08T11:05:29.024750+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "Latin American Spanish",
+      "English (USA)",
+      "English International",
+      "French",
+      "German",
+      "Italian",
+      "Dutch",
+      "Chinese Simplified"
+    ],
+    "languages_raw": "Latin American Spanish, English (USA), English International, French, German, Italian, Dutch, Chinese Simplified,",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The Technical Checking assessment is part of the Verify suite of cognitive ability assessments. Technical Checking measures perceptual speed and accuracy. This assessment requires examinees to quickly and accurately match symbols and switches based on a given set of rules. The Technical Checking assessment is mostly non-verbal and features shapes and figures. As with all assessments included in the Verify suite, the Technical Checking assessment allows organizations to assess this aspect of cognitive ability in an unproctored setting. This assessment is appropriate for all job levels and job titles, but is especially relevant for jobs that require the ability to quickly assess the accuracy of information against a set of rules.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3906",
+    "name": "Verify - Verbal Ability - Next Generation",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "scraped_at": "2026-05-08T11:05:36.987949+00:00",
+    "job_levels": [
+      "General Population",
+      "Graduate",
+      "Executive",
+      "Director",
+      "Entry-Level",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor",
+      "Front Line Manager"
+    ],
+    "job_levels_raw": "General Population, Graduate, Executive, Director, Entry-Level, Manager, Mid-Professional, Professional Individual Contributor, Supervisor, Front Line Manager,",
+    "languages": [
+      "English (USA)",
+      "English International"
+    ],
+    "languages_raw": "English (USA), English International,",
+    "duration": "15 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 15 minutes",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and predict author responses. Sample tasks for jobs that may require verbal ability include, but are not limited to: working with reports, correspondence, instructions, and research information. The Verbal Ability test, due to its adaptive nature, is appropriate for all job levels and roles.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3940",
+    "name": "Verify - Working with Information",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "scraped_at": "2026-05-08T11:05:43.473100+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "Greek",
+      "Arabic",
+      "Chinese Simplified",
+      "German",
+      "French",
+      "Italian",
+      "Dutch",
+      "English International",
+      "English (USA)",
+      "Latin American Spanish"
+    ],
+    "languages_raw": "Greek, Arabic, Chinese Simplified, German, French, Italian, Dutch, English International, English (USA), Latin American Spanish,",
+    "duration": "10 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 10",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This test measures a candidate's ability to process information. Candidates are given information in different table formats and are asked to use the information provided to answer related questions.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3945",
+    "name": "Verify G+ - Ability Test Report",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "scraped_at": "2026-05-08T11:05:50.296762+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The SHL Verify G+ Ability Test Report provides the candidate's overall General Ability score alongside scores on Numerical, Deductive and Inductive Reasoning, using the comparison group selected by the user.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3970",
+    "name": "Verify G+ - Candidate Report",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "scraped_at": "2026-05-08T11:17:49.178920+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The SHL Verify G+ Ability Candidate Report provides the candidate with feedback on their Numerical, Deductive and Inductive Reasoning results. It does not include the overall score, as it is intended for feedback and developmental purposes. The report focuses on how the candidate can improve their abilities in each area (deductive, inductive, and numerical). Please note: language availability for the G+ Candidate Report is currently more limited than for the manger-facing G+ Ability Report.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3969",
+    "name": "Verify Interactive Ability Report",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "scraped_at": "2026-05-08T11:17:54.685120+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Verify Interactive Ability Report",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3976",
+    "name": "Verify Interactive G+ Candidate Report",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "scraped_at": "2026-05-08T11:18:00.247501+00:00",
+    "job_levels": [],
+    "job_levels_raw": "",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Verify Interactive G+ Candidate Report",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "3974",
+    "name": "Verify Interactive G+ Report",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "scraped_at": "2026-05-08T11:06:00.991137+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Report for Verify Interactive G+",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "4290",
+    "name": "Verify Interactive Process Monitoring",
+    "link": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "scraped_at": "2026-05-08T11:18:05.773469+00:00",
+    "job_levels": [
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "18 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 18",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "The SHL Verify Range of Ability Tests is a suite of cognitive ability assessments appropriate for candidates at a wide range of job levels. The SHL Process Monitoring assessment is designed for candidates in a wide range of industries where following processes, ensuring vigilance and maintaining machinery are important aspects of the job role. It measures candidates' ability to respond in a timely manner to instrument feedback and monitor variations in a production process in order to maintain the process within specified safe control limits.",
+    "keys": [
+      "Ability & Aptitude"
+    ]
+  },
+  {
+    "entity_id": "4215",
+    "name": "Virtual Assessment and Development Centers",
+    "link": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "scraped_at": "2026-05-08T11:06:09.804721+00:00",
+    "job_levels": [
+      "Director",
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Director, Entry-Level, Executive, Front Line Manager, General Population, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)",
+      "English International",
+      "Italian",
+      "German",
+      "Portuguese",
+      "Spanish",
+      "Latin American Spanish",
+      "French",
+      "French (Canada)",
+      "Dutch",
+      "Japanese",
+      "Indonesian",
+      "Greek",
+      "Romanian",
+      "Chinese Simplified",
+      "Arabic"
+    ],
+    "languages_raw": "English (USA), English International, Italian, German, Portuguese, Spanish, Latin American Spanish, French, French (Canada), Dutch, Japanese, Indonesian, Greek, Romanian, Chinese Simplified, Arabic,",
+    "duration": "N/A",
+    "duration_raw": "Approximate Completion Time in minutes = N/A",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "SHL’s innovative virtual assessment centers wow new hires or existing employees and show how you invest in your people. They are a highly engaging experience, inclusive and packed with predictive power to undercover potential.\r\n\r\nSHL’s virtual assessment and development center platform is packaged with features to support your candidates, assessors and center administrators.\r\n\r\nDeliver a full range of assessment center exercises, from inbox simulations and written analysis, through coaching and role-play with preparation materials and one to one live virtual interactions, to assigned or unassigned role group exercises. Exercises are available across a range of job levels and industry scenarios\r\n\r\nWant to find out more or book a demo? Visit https://www.shl.com/en/virtual/virtual-assessment-development-center/\r\n \r\nLanguage Availability for the candidate and assessor simulation interface is shown in the list below.\r\n \r\nLanguage Availability for the live interactions interface (Smart Interview Live) is currently:  English US, Japanese, Simplified Chinese, Spanish, Portuguese, Brazilian Portuguese, French, Canadian French, Italian, Dutch, Latin American Spanish, Romanian, Indonesian, German, Greek.",
+    "keys": [
+      "Personality & Behavior"
+    ]
+  },
+  {
+    "entity_id": "4163",
+    "name": "Visual Basic for Applications (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "scraped_at": "2026-05-08T11:06:16.569681+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "7 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 7",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of VBA programming constructs, forms, controls and VBA security.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "399",
+    "name": "Visual Comparison - UK",
+    "link": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "scraped_at": "2026-05-08T11:06:24.676715+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English International"
+    ],
+    "languages_raw": "English International,",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select the set of numbers that are notidentical.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "400",
+    "name": "Visual Comparison - US",
+    "link": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "scraped_at": "2026-05-08T11:06:30.738429+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select the set of numbers that are not identical.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4164",
+    "name": "VLSI and Embedded Systems (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "scraped_at": "2026-05-08T11:06:38.420277+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of VLSI and embedded systems basics.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3459",
+    "name": "What Is The Value - US",
+    "link": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "scraped_at": "2026-05-08T11:06:45.729189+00:00",
+    "job_levels": [
+      "Entry-Level"
+    ],
+    "job_levels_raw": "Entry-Level,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "5 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 5",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The What is the Value –US test measures money handling ability. This test is designed for entry-level positions where handling money is required on a regular basis.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "3991",
+    "name": "Workplace Administration Skills (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "scraped_at": "2026-05-08T11:06:52.456652+00:00",
+    "job_levels": [
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "12 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 12",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the ability to organize one's workplace, properly maintain data, perform simple tasks on the computer and resolve administrative issues.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4068",
+    "name": "Workplace Health and Safety (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "scraped_at": "2026-05-08T11:18:11.120183+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Supervisor",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Manager, Supervisor, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of first aid, emergency safety measures, cleanliness and personal hygiene.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4183",
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "scraped_at": "2026-05-08T11:18:16.508191+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "15 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 15",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4184",
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "scraped_at": "2026-05-08T11:18:21.870142+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "15 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 15",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "keys": [
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "4185",
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "scraped_at": "2026-05-08T11:07:02.272099+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Graduate",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor",
+      "Supervisor"
+    ],
+    "job_levels_raw": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "15 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 15",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette.\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
+    "keys": [
+      "Biodata & Situational Judgment",
+      "Simulations"
+    ]
+  },
+  {
+    "entity_id": "17",
+    "name": "Written English v1",
+    "link": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "scraped_at": "2026-05-08T11:18:27.201630+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)",
+      "English International"
+    ],
+    "languages_raw": "English (USA), English International,",
+    "duration": "30 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 30",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language and covers the following topics: Articles, Comparisons, Conjunctions, General Questions, Misused Words, Nouns, Parallel Structure, Prepositions, Pronouns, Specific Questions, and Verbs.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "18",
+    "name": "Written Spanish",
+    "link": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "scraped_at": "2026-05-08T11:18:32.598810+00:00",
+    "job_levels": [
+      "Entry-Level",
+      "Front Line Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "Latin American Spanish"
+    ],
+    "languages_raw": "Latin American Spanish,",
+    "duration": "22 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 22",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "yes",
+    "description": "This test measures knowledge of Spanish grammar and Spanish reading comprehension skills. Designed primarily for individuals where Spanish is their second language, this test covers the following topics: Adjectives, Adverbs, Conjunctions, Nouns, Prepositions, Pronouns, Verbs, and Reading Comprehension.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4166",
+    "name": "Zabbix (New)",
+    "link": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "scraped_at": "2026-05-08T11:18:37.997352+00:00",
+    "job_levels": [
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "English (USA)"
+    ],
+    "languages_raw": "English (USA),",
+    "duration": "9 minutes",
+    "duration_raw": "Approximate Completion Time in minutes = 9",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Multi-choice test that measures the knowledge of Zabbix architecture, data handling, monitoring and administration.",
+    "keys": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "entity_id": "4297",
+    "name": "360 Digital Report",
+    "link": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "scraped_at": "2026-05-08T11:18:43.464090+00:00",
+    "job_levels": [
+      "Director",
+      "Manager",
+      "Entry-Level",
+      "Executive",
+      "Front Line Manager",
+      "General Population",
+      "Graduate"
+    ],
+    "job_levels_raw": "Director, Manager, Entry-Level, Executive, Front Line Manager, General Population, Graduate,",
+    "languages": [],
+    "languages_raw": "",
+    "duration": "",
+    "duration_raw": "",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "Introducing the new 360 Digital Report from SHL! Our latest offering revolutionizes the reporting experience for our 360 products, catering to the modern user's needs for enhanced usability and actionable insights. With a sleek, interactive interface, this report provides a exploration of feedback data, focusing on user development and comprehensive evaluation. Users can now enjoy a visually engaging experience, with the capability to download the report in PDF format for offline access. Upgrade your reporting experience today with SHL's innovative 360 Digital Report!",
+    "keys": [
+      "Development & 360"
+    ]
+  },
+  {
+    "entity_id": "744",
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "link": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "scraped_at": "2026-05-08T11:18:48.868314+00:00",
+    "job_levels": [
+      "Director",
+      "Executive",
+      "Front Line Manager",
+      "Manager",
+      "Mid-Professional",
+      "Professional Individual Contributor"
+    ],
+    "job_levels_raw": "Director, Executive, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
+    "languages": [
+      "Latin American Spanish",
+      "Romanian",
+      "French (Canada)",
+      "Czech",
+      "Hungarian",
+      "Indonesian",
+      "Turkish",
+      "Serbian",
+      "Portuguese (Brazil)",
+      "Chinese Traditional",
+      "Slovak",
+      "Thai",
+      "English International",
+      "Dutch",
+      "French",
+      "German",
+      "Italian",
+      "Portuguese",
+      "Spanish",
+      "Danish",
+      "Finnish",
+      "Norwegian",
+      "Swedish",
+      "English (USA)",
+      "Russian",
+      "Chinese Simplified",
+      "Icelandic",
+      "Polish",
+      "Japanese",
+      "Korean"
+    ],
+    "languages_raw": "Latin American Spanish, Romanian, French (Canada), Czech, Hungarian, Indonesian, Turkish, Serbian, Portuguese (Brazil), Chinese Traditional, Slovak, Thai, English International, Dutch, French, German, Italian, Portuguese, Spanish, Danish, Finnish, Norwegian, Swedish, English (USA), Russian, Chinese Simplified, Icelandic, Polish, Japanese, Korean,",
+    "duration": "Untimed",
+    "duration_raw": "Approximate Completion Time in minutes = Untimed",
+    "status": "ok",
+    "remote": "yes",
+    "adaptive": "no",
+    "description": "SHL 360, or the Multi-Rater Feedback System (‘MFS’), provides a holistic 360-degree view of an employee by gathering feedback from the employee’s manager, peers, direct reports, and/or other raters.  By offering a wide range of perspectives, 360 feedback gives employees a more thorough understanding of not only their strengths, weaknesses, and development opportunities, but also their impact on others.  360-degree multi-rater assessments are based on SHL’s Universal Competency Framework (“UCF”), using our proven library of research-driven competencies to provide opportunities for managers, peers, and direct reports to supply useful developmental feedback that they may not otherwise share.  SHL can also offer support and training throughout the entire process, from defining objectives through interpreting and delivering the feedback.  360 feedback serves all levels and industries and is a positive and powerful addition to your performance management system.",
+    "keys": [
+      "Development & 360",
+      "Personality & Behavior"
+    ]
+  }
+]
