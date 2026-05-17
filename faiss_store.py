@@ -55,7 +55,7 @@ class FAISSStore:
 
         self.index = faiss.IndexFlatIP(embeddings.shape[1])
         self.index.add(embeddings)
-        print(f"Loaded {len(self.assessments)} assessments into memory.")
+        # print(f"Loaded {len(self.assessments)} assessments into memory.")
 
     def search(self, query: str, top_k: int = 10) -> list[Assessment]:
         if self.index is None:
