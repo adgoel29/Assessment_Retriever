@@ -50,7 +50,8 @@ OUTPUT FORMAT (return a JSON object):
   ],
   "end_of_conversation": false
 }
- 
+
+there can be multiple test types if there are multiple then seperate them from a ','
 recommendations is [] when clarifying, comparing without a shortlist decision, or refusing.
 """
 
@@ -67,10 +68,8 @@ KEY_TO_TYPE = {
 
 
 def get_test_type(keys: list[str]) -> str:
-    for k in keys:
-        if k in KEY_TO_TYPE:
-            return KEY_TO_TYPE[k]
-    return "K"
+    types = [KEY_TO_TYPE[k] for k in keys if k in KEY_TO_TYPE]
+    return ",".join(types) if types else "K"
 
 
 def format_assessments(assessments: list[Assessment]) -> str:
@@ -153,7 +152,6 @@ class SHLAgent:
 
         
         rag_query = intent.get("rag_query", "")
-        print(f"RAG query: {rag_query}")
         candidates = self.store.search(rag_query, top_k=10) if rag_query else []
         valid_urls = {a.url for a in candidates}
         catalog_context = format_assessments(candidates) if candidates else "No relevant assessments found."
